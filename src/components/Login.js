@@ -27,6 +27,7 @@ setisSignInForm(!isSignInForm);
         className="p-4 my-4 w-full bg-gray-900"
         />
       )}
+      
         <input 
         type="text" 
         placeholder="Email Address"
