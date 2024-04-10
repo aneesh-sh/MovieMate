@@ -3,11 +3,15 @@
  - creat-react-app
  - configured tailwindcss
  - Header
- - Login form
+ - Routing of App
+ - Login/ Sign In form
+ - Sign Up form
+ - Form Validation
+ - Use Ref Hook
 
 
 
- # Features gf
+ # Features
   - Login in/ Sign up
     - sign up Form
     - Redirect to browse
@@ -17,7 +21,7 @@
     - Trailer in Background
     - Title and Description
     - Movie Suggestion
-        - Movie List*N
+      - Movie List*N
 - Netflix GPT
     - Search Bar
     - Movie Suggestion
