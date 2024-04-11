@@ -1,5 +1,4 @@
- # Netflix App
- 
+ # Movie Mate (Netflix App)
  - creat-react-app
  - configured tailwindcss
  - Header
@@ -8,8 +7,14 @@
  - Sign Up form
  - Form Validation
  - Use Ref Hook
-
-
+ - Firebase Configuration
+ - Deploy app to production
+ - Create SignUp user account 
+ - Implement Sign In API
+ - Created Redux Store with userSlice
+ - Implemented Sign Out
+ - Update Profile
+ - Fetch from TMDB movies
 
  # Features
   - Login in/ Sign up
