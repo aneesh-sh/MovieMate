@@ -35,6 +35,7 @@
  - browse page tailwiind
  - custom hook usePopularMovies
  - custom hook useupcomingMovies
+ - custom hook useTopRatedMovies
   
  # Features
   - Login in/ Sign up
