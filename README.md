@@ -28,8 +28,13 @@
  - update store with trailer video data
  - embede the yt video and make it autoplay and mute
  - tailwind classes to make mainContainer awesome 
+ - build secondary container
+ - built movielist
+ - built movie card
+ - TMDB  IMG_CDN_URL
+ - browse page tailwiind
+ - custom hook usePopularMovies
   
-
  # Features
   - Login in/ Sign up
     - sign up Form
