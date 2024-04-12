@@ -34,6 +34,7 @@
  - TMDB  IMG_CDN_URL
  - browse page tailwiind
  - custom hook usePopularMovies
+ - custom hook useupcomingMovies
   
  # Features
   - Login in/ Sign up
