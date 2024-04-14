@@ -53,6 +53,7 @@
     - Title and Description
     - Movie Suggestion
       - Movie List*N
-- Netflix GPT
+- GPT Page
     - Search Bar
     - Movie Suggestion
+    - Multi Language Support
