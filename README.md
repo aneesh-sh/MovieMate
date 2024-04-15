@@ -1,4 +1,4 @@
- # Movie Mate (Netflix App)
+ # Movie Mate (NetflixGPT App)
  - creat-react-app
  - configured tailwindcss
  - Header
@@ -40,7 +40,15 @@
  - GPT search page
  - Gpt search bar 
  - multilanguage support to GPT search page
- - 
+ - open Ai 
+ - GPT search GPT AI call
+ - create gptSlice added data
+ - get getMoviesSuggestion 
+ - reused movieList componen in GptSearchPage
+ - momoization
+ - add env file 
+ - env to gitignore
+ - site responsive
   
  # Features
   - Login in/ Sign up

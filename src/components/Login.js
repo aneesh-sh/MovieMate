@@ -90,13 +90,14 @@ else{
       <Header/>
       <div className="absolute">
         <img 
+        className="min-h-screen object-cover "
         src={BIG_URL}
         alt="logo"/>
       </div>
       <form 
       onSubmit={(e)=> e.preventDefault()}
-      className=" w-3/12 absolute p-12 bg-black mx-auto my-36 right-0 left-0 text-white rounded-lg bg-opacity-85">
-        <h1 className="font-bold text-3xl py-4">
+      className=" w-full md:w-3/12 absolute p-12 bg-black mx-auto my-36 right-0 left-0 text-white rounded-lg bg-opacity-85">
+        <h1 className="font-bold  text-xl md:text-3xl py-4">
            {isSignInForm ? "Sign In" : "Sign Up"}
         </h1>
         {!isSignInForm && (
@@ -121,7 +122,7 @@ else{
         />
         <p className=" py-2 text-red-600 font-bold text-lg">{errorMessage}</p>
         <button 
-        className="p-4 my-6 bg-red-700 w-full rounded-lg" onClick ={handlebuttonClick}>
+        className="p-2 md:p-4 my-4 md:my-6 bg-red-700 w-full rounded-lg" onClick ={handlebuttonClick}>
           {isSignInForm ? "Sign In" : "Sign Up"}
           </button>
         <p className="py-4 cursor-pointer " onClick={toggleSignIn}>
